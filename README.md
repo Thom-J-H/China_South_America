@@ -33,3 +33,8 @@ This work is published from:
       content="KH" about="https://github.com/Thom-J-H/China_South_America/">
   Cambodia</span>.
 </p>
+
+
+<hr />
+
+You can support independent Open-source intelligence and data analysis: [PayPal Data Humanist](paypal.me/datahumanist).  Thank you for your consideration.
