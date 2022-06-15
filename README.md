@@ -6,7 +6,7 @@ This project explores China's investment in South America, based on the [China G
 
 China, according to the [Belt and Road Research Platform](https://www.beltroadresearch.com/), is either the number one or number two trade partner for the majority of South American nations. In fact, in terms of economic hegemony, <em>Bloomberg News</em> ([18 February 2022](https://www.bloomberg.com/news/articles/2022-02-17/china-is-south-america-s-top-trading-partner-why-can-t-the-us-keep-up)) has already conceded South America to China: “How China Beat Out the U.S. to Dominate South America.” Although history is obviously still being written, the data does support this claim.
 
-The <em>Data Dashboard</em> as an end report for this project: [China and South America](https://rpubs.com/Thom_JH/China_Investment_South_America).  Produced by Data Humanist for the Substack [American Exile](https://americanexile.substack.com/) -- delivered 16 June 2022.
+The <em>Data Dashboard</em> as an end report for this project: [China and South America](https://rpubs.com/Thom_JH/China_Investment_South_America).  Produced and delivered on 16 June 2022 by Data Humanist for the Substack [American Exile](https://americanexile.substack.com/). 
 
 <hr />
 
