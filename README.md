@@ -14,7 +14,7 @@ The <em>Data Dashboard</em> as an end report for this project: [China and South 
 
 ![Yearly_Combo_plot](https://user-images.githubusercontent.com/12042357/173369810-d5a959e4-245a-4da1-b99c-c83c3d7bb86f.png)
 
-The following applies to the R script, related data, and any graphs or maps {images: also [available here]([https://github.com/Thom-J-H/Mearsheimer_NATO/tree/main/map_images](https://github.com/Thom-J-H/China_South_America/tree/main/images))}.  NOT to the any text content or commentary which is copyright &copy; 2022 for the substack: [American Exile](https://americanexile.substack.com/).
+The following applies to the R script, related data, and any graphs or maps {images: also [available here](https://github.com/Thom-J-H/China_South_America/tree/main/images)}.  NOT to the any text content or commentary which is copyright &copy; 2022 for the substack: [American Exile](https://americanexile.substack.com/).
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
