@@ -1,0 +1,15 @@
+These are the Excel versions of the Data Tables displayed on the Dashboard at https://rpubs.com/Thom_JH/China_Investment_South_America.
+
+They are derived from the China Global Investment Tracker data set, created and maintained by Derek Scissors at the American Enterprise Institute, and freely available for download @ https://www.aei.org/china-global-investment-tracker/
+
+
+To Tidy these, for R users, after reading the data set in, the following will work (using Nation_Sector_Invest as an example):
+
+
+Nation_Sector_Invest <- Nation_Sector_Invest %>%
+	mutate(Sector_Invest = readr::parse_number(Sector_Invest),
+	Sector_Percent = readr::parse_number(Sector_Percent),
+	Total_Invest = readr::parse_number(Total_Invest) )
+	
+
+Thank you.
